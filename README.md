@@ -1,5 +1,4 @@
 # retail-sales-analysis
-End-to-end retail sales analysis project using Excel, MySQL, SQL, and Power BI featuring data cleaning, business insights, and an interactive dashboard.
 This project was one of my first end-to-end data analytics projects and gave me the opportunity to work through the complete analytics process—from cleaning raw data to building an interactive dashboard.
 
 I started with a retail sales dataset containing over 10,000 transactions and used Excel to clean the data, MySQL to explore and analyze it with SQL, and Power BI to create a dashboard that highlights important business trends. The goal of the project wasn't just to create charts, but to answer real business questions and present the results in a way that's easy to understand.
