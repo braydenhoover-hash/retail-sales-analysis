@@ -69,14 +69,6 @@ This project helped me become much more comfortable working with SQL and Power B
 
 It also gave me experience connecting multiple tools together in a complete workflow instead of using them individually.
 
-Files Included
-Retail_Sales_Dashboard.pbix – Interactive Power BI dashboard
-Dashboard.pdf – Dashboard export
-SQL_Queries.sql – SQL queries used during analysis
-Superstore_Cleaned.csv – Cleaned dataset
-Project_Report.pdf – Written summary of the project
-Future Improvements
-
 As I continue learning, I'd like to expand this project by:
 
 Using Common Table Expressions (CTEs)
